@@ -1,5 +1,3 @@
-# Deep Learning and Its Applications
-
 ## Course Information
 - **University:** Ho Chi Minh City University of Technology (HCMUT), VNU-HCM
 - **Faculty:** Faculty of Computer Science and Engineering
