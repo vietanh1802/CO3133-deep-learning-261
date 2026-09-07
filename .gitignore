@@ -1,0 +1,7 @@
+# Course handbook (instructor-provided, not a group deliverable)
+docs/
+
+# NOTE: Report and slides ARE required deliverables (handbook Sec. 4.1).
+# If they end up under docs/, un-ignore them, e.g.:
+#   !docs/report.pdf
+#   !docs/slides.pdf
