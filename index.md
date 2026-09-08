@@ -1,3 +1,8 @@
+---
+title: CO3133 — Deep Learning and Its Applications
+description: Group course project · Assignments 1–3 · Semester 261
+---
+
 ## Course Information
 - **University:** Ho Chi Minh City University of Technology (HCMUT), VNU-HCM
 - **Faculty:** Faculty of Computer Science and Engineering
@@ -16,7 +21,7 @@
 | Lê Nguyên Khang | 2352470 | _(fill in)_ | [khenm](https://github.com/khenm) |
 | Trần Nguyên Giáp | 2352284 | _(fill in)_ | [nguyenzap](https://github.com/nguyenzap) |
 
-**Code repository:** [lamanhhh/Dipped-Learning-k261](https://github.com/lamanhhh/Dipped-Learning-k261)
+**Code repository:** [vietanh1802/CO3133-deep-learning-261](https://github.com/vietanh1802/CO3133-deep-learning-261)
 
 ## Assignments
 - [Assignment 1 - Foundations of Deep Learning Pipelines and Architectures](assignment1.md)
