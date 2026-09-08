@@ -6,7 +6,7 @@
 
 **Instructor:** Lê Thành Sách
 
-**Group members:** _(TBA)_
+**Group members:** Vũ Đức Việt Anh (2352074), Trần Lâm Anh (2352067), Lê Nguyên Khang (2352470), Trần Nguyên Giáp (2352284)
 
 ## Problem Statement
 _(TBA)_
